@@ -14,6 +14,8 @@ This script analyzes various security headers and certificates for websites to e
 
 The results are exported to an Excel file for easy analysis.
 
+This project is part of the research conducted for [this publication](https://lnu.diva-portal.org/smash/record.jsf?dswid=6479&pid=diva2%3A1701444&c=1&searchType=SIMPLE&language=sv&query=DNSsec%2B&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) at Linnaeus University.
+
 ---
 
 ## Features
